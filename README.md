@@ -4,6 +4,8 @@
 
 I will **NOT** give Support if the BOT does not work for you, this is a garbage build and yeah, my community wished that the source goes public ENJOY ;)
 
+## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+
 ## Installation | How to use the Bot
 
  **1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
@@ -22,9 +24,14 @@ I will **NOT** give Support if the BOT does not work for you, this is a garbage 
 
 
 # SUPPORT ME
-BY [INVITING MY PUBLIC BOT 24/7 UPTIME!](https://dc.milrato.eu)
 
-This repository only exists, because of this DISCORD BOT, so make sure to invite it, so that i can keep this Repo up to date ;)
+You can always Support me by inviting one of my **own Discord Bots**
+
+[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
+[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.eu)
+[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.eu)
+
+This repository only exists, because of these DISCORD BOTS, so make sure to invite it, so that i can keep this Repo up to date ;)
 
 ## BEST HOSTING | Bittmax.de
 BITTMAX Quality is their solution.
