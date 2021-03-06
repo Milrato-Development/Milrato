@@ -6,9 +6,9 @@ const Discord = require("discord.js");
 const client = new Discord.Client({ partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });
 
 const config = {
- voicechannel: "798579391021449307",
- guildid: "798570814185144350",
- token: "Nzg5ODQ1NDEwOTk4Nzc5OTA0.X93-3A.3cF7iT60zFsh0nfwcrvMl1fMrso",
+ voicechannel: "",
+ guildid: "",
+ token: "",
 }
 
 /////////////////////
