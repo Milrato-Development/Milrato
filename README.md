@@ -22,11 +22,9 @@ I will **NOT** give Support if the BOT does not work for you, this is a garbage 
 
 
 # SUPPORT ME
-BY [INVITING MY PUBLIC MUSIC BOT 24/7 UPTIME!](https://discord.com/api/oauth2/authorize?client_id=742672021422342165&permissions=8&scope=bot)
+BY [INVITING MY PUBLIC BOT 24/7 UPTIME!](https://dc.milrato.eu)
 
 This repository only exists, because of this DISCORD BOT, so make sure to invite it, so that i can keep this Repo up to date ;)
-
-![](https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js/blob/main/aha.png)
 
 ## BEST HOSTING | Bittmax.de
 BITTMAX Quality is their solution.
